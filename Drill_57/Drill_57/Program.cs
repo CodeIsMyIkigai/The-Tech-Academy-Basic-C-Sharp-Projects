@@ -35,9 +35,9 @@ namespace Drill_57
 {
     class Program
     {
-
+        
         //Get a valid string result from the console.
-        private static string getConsoleString(string question, string requestion)
+        private static string GetConsoleString(string question, string requestion)
         {
             Console.WriteLine(question);
             string result = Console.ReadLine();
@@ -49,7 +49,7 @@ namespace Drill_57
             return result;
         }
         //Get a valid string result from the console.
-        private static int getConsoleInt(string question, string requestion)
+        private static int GetConsoleInt(string question, string requestion)
         {
             int result;
             Console.WriteLine(question);
@@ -63,7 +63,7 @@ namespace Drill_57
         }
 
         //Get a valid bool result from the console.
-        private static bool getConsoleBool(string question, string requestion)
+        private static bool GetConsoleBool(string question, string requestion)
         {
             bool result;
             Console.WriteLine(question);
@@ -86,30 +86,30 @@ namespace Drill_57
             //Print out Questionaire
 
             //Course Name
-            string courseName = getConsoleString("What course are you on?",
+            string courseName = GetConsoleString("What course are you on?",
                 "Course name cannot be empty!  Please enter your current course name."
                 );
 
             //Page number?
-            int pageNumber = getConsoleInt("What page number?", "Page number must be a valid non-empty integer! Please enter current page number.");
+            int pageNumber = GetConsoleInt("What page number?", "Page number must be a valid non-empty integer! Please enter current page number.");
 
             //Need Help?
-            bool needHelp = getConsoleBool("Do you need help with anything? Please answer “true” or “false”.",
+            bool needHelp = GetConsoleBool("Do you need help with anything? Please answer “true” or “false”.",
                 "Answer cannot be empty.  Please enter either “true” or “false”."
                 );
 
             //Posative Experiences
-            string posExperiences = getConsoleString("Were there any positive experiences you’d like to share? Please give specifics.",
+            string posExperiences = GetConsoleString("Were there any positive experiences you’d like to share? Please give specifics.",
                 "Experiences cannot be empty.  Please give specifics or enter “N/A”."
                 );
 
             //Feedback
-            string feedback = getConsoleString("Is there any other feedback you’d like to provide? Please be specific.",
+            string feedback = GetConsoleString("Is there any other feedback you’d like to provide? Please be specific.",
                 "Feedback cannot be empty.  Please enter specifics or enter “N/A”."
                 );
 
             //Hours worked
-            int hoursStudied = getConsoleInt("How many hours did you study today?", 
+            int hoursStudied = GetConsoleInt("How many hours did you study today?", 
                 "Hours must be a valid non-empty integer!.  Please enter an integer number of hours you worked today."
                 );
 
