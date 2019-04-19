@@ -1,0 +1,11 @@
+C:\Users\Chest\Source\Repos\The-Tech-Academy-Basic-C-Sharp-Projects\Drill_94\Drill_94\bin\Debug\netcoreapp2.1\Drill_94.deps.json
+C:\Users\Chest\Source\Repos\The-Tech-Academy-Basic-C-Sharp-Projects\Drill_94\Drill_94\bin\Debug\netcoreapp2.1\Drill_94.runtimeconfig.json
+C:\Users\Chest\Source\Repos\The-Tech-Academy-Basic-C-Sharp-Projects\Drill_94\Drill_94\bin\Debug\netcoreapp2.1\Drill_94.runtimeconfig.dev.json
+C:\Users\Chest\Source\Repos\The-Tech-Academy-Basic-C-Sharp-Projects\Drill_94\Drill_94\bin\Debug\netcoreapp2.1\Drill_94.dll
+C:\Users\Chest\Source\Repos\The-Tech-Academy-Basic-C-Sharp-Projects\Drill_94\Drill_94\bin\Debug\netcoreapp2.1\Drill_94.pdb
+C:\Users\Chest\Source\Repos\The-Tech-Academy-Basic-C-Sharp-Projects\Drill_94\Drill_94\obj\Debug\netcoreapp2.1\Drill_94.csprojAssemblyReference.cache
+C:\Users\Chest\Source\Repos\The-Tech-Academy-Basic-C-Sharp-Projects\Drill_94\Drill_94\obj\Debug\netcoreapp2.1\Drill_94.csproj.CoreCompileInputs.cache
+C:\Users\Chest\Source\Repos\The-Tech-Academy-Basic-C-Sharp-Projects\Drill_94\Drill_94\obj\Debug\netcoreapp2.1\Drill_94.AssemblyInfoInputs.cache
+C:\Users\Chest\Source\Repos\The-Tech-Academy-Basic-C-Sharp-Projects\Drill_94\Drill_94\obj\Debug\netcoreapp2.1\Drill_94.AssemblyInfo.cs
+C:\Users\Chest\Source\Repos\The-Tech-Academy-Basic-C-Sharp-Projects\Drill_94\Drill_94\obj\Debug\netcoreapp2.1\Drill_94.dll
+C:\Users\Chest\Source\Repos\The-Tech-Academy-Basic-C-Sharp-Projects\Drill_94\Drill_94\obj\Debug\netcoreapp2.1\Drill_94.pdb
