@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 /*
 
@@ -29,9 +30,28 @@ namespace Drill_106
     {
         static void Main(string[] args)
         {
+            List<int> numberList = new List<int> { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+
+            Console.Write("Please enter an integer number: ");
+            try
+            {
+                string input = Console.ReadLine();
+                int number = int.Parse(input);
+
+                foreach (int num in numberList)
+                {
+                    int result = num / number;
+                    Console.WriteLine("{0} divided by {1} is equal to {2}", num, number, result);
+                }
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+
+            }   
             
-
-
+            Console.WriteLine("\n\nAfter the Try/Catch block.");
+            Console.ReadLine();
         }
     }
 }

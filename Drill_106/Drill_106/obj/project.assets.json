@@ -516,10 +516,11 @@
       ]
     },
     "Microsoft.NETCore.Platforms/2.1.0": {
-      "sha512": "TT+QCi9LcxGTjBssH7S7n5+8DVcwfG4DYgXX7Dk7+BfZ4oVHj8Q0CbYk9glzAlHLsSt3bYzol+fOdra2iu6GOw==",
+      "sha512": "aSTPL94NloSiQVL5Len8wbjFKOnoAX/vOh3s3DF6g3c7GUUMLCDvnBhmA72M2iN2AedyA8hpr7m89kzSAKUnJQ==",
       "type": "package",
       "path": "microsoft.netcore.platforms/2.1.0",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
@@ -681,23 +682,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Chest\\.nuget\\packages\\": {},
+    "C:\\Users\\DellUser\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Chest\\Source\\Repos\\The-Tech-Academy-Basic-C-Sharp-Projects\\Drill_106\\Drill_106\\Drill_106.csproj",
+      "projectUniqueName": "C:\\Users\\DellUser\\Source\\Repos\\CodeIsMyIkigai\\The-Tech-Academy-Basic-C-Sharp-Projects\\Drill_106\\Drill_106\\Drill_106.csproj",
       "projectName": "Drill_106",
-      "projectPath": "C:\\Users\\Chest\\Source\\Repos\\The-Tech-Academy-Basic-C-Sharp-Projects\\Drill_106\\Drill_106\\Drill_106.csproj",
-      "packagesPath": "C:\\Users\\Chest\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Chest\\Source\\Repos\\The-Tech-Academy-Basic-C-Sharp-Projects\\Drill_106\\Drill_106\\obj\\",
+      "projectPath": "C:\\Users\\DellUser\\Source\\Repos\\CodeIsMyIkigai\\The-Tech-Academy-Basic-C-Sharp-Projects\\Drill_106\\Drill_106\\Drill_106.csproj",
+      "packagesPath": "C:\\Users\\DellUser\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\DellUser\\Source\\Repos\\CodeIsMyIkigai\\The-Tech-Academy-Basic-C-Sharp-Projects\\Drill_106\\Drill_106\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Chest\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\DellUser\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
