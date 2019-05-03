@@ -36,11 +36,15 @@ namespace Drill_106
             try
             {
                 string input = Console.ReadLine();
-                int number = int.Parse(input);
+                double number = double.Parse(input);
+
+                Console.WriteLine(number);
+
+                Console.ReadLine();
 
                 foreach (int num in numberList)
                 {
-                    int result = num / number;
+                    double result = num / number;
                     Console.WriteLine("{0} divided by {1} is equal to {2}", num, number, result);
                 }
             }
