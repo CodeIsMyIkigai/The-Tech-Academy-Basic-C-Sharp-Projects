@@ -18,6 +18,11 @@ namespace TwentyOne
             Face = faceIn;
         }
 
+        public string ToString()
+        {
+            return String.Format("{0} of {1}", Face, Suit);
+        }
+
         public string Suit { get; set; }
         public string Face { get; set; }
         
