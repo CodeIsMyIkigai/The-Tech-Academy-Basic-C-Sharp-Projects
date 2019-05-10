@@ -30,7 +30,7 @@ namespace TwentyOne
                 deck.Cards.RemoveAt(randomIndex);
             }
 
-            deck.Cards = TempList;
+            deck.Cards = TempList; 
             return deck;
 
         }
