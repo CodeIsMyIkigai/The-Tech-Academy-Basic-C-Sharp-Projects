@@ -11,7 +11,7 @@ namespace TwentyOne
 
         public Deck()
         {
-            Cards = new List<Card>();
+            this.Cards = new List<Card>();
 
             List<string> Suits = new List<string> { "Hearts", "Diamonds", "Clubs", "Spades" };
             List<string> Faces = new List<string> {
