@@ -1,0 +1,11 @@
+C:\Users\Chest\Source\Repos\The-Tech-Academy-Basic-C-Sharp-Projects\Drill_140\Drill_140\obj\Debug\netcoreapp2.1\Drill_140.csprojAssemblyReference.cache
+C:\Users\Chest\Source\Repos\The-Tech-Academy-Basic-C-Sharp-Projects\Drill_140\Drill_140\obj\Debug\netcoreapp2.1\Drill_140.csproj.CoreCompileInputs.cache
+C:\Users\Chest\Source\Repos\The-Tech-Academy-Basic-C-Sharp-Projects\Drill_140\Drill_140\obj\Debug\netcoreapp2.1\Drill_140.AssemblyInfoInputs.cache
+C:\Users\Chest\Source\Repos\The-Tech-Academy-Basic-C-Sharp-Projects\Drill_140\Drill_140\obj\Debug\netcoreapp2.1\Drill_140.AssemblyInfo.cs
+C:\Users\Chest\Source\Repos\The-Tech-Academy-Basic-C-Sharp-Projects\Drill_140\Drill_140\bin\Debug\netcoreapp2.1\Drill_140.deps.json
+C:\Users\Chest\Source\Repos\The-Tech-Academy-Basic-C-Sharp-Projects\Drill_140\Drill_140\bin\Debug\netcoreapp2.1\Drill_140.runtimeconfig.json
+C:\Users\Chest\Source\Repos\The-Tech-Academy-Basic-C-Sharp-Projects\Drill_140\Drill_140\bin\Debug\netcoreapp2.1\Drill_140.runtimeconfig.dev.json
+C:\Users\Chest\Source\Repos\The-Tech-Academy-Basic-C-Sharp-Projects\Drill_140\Drill_140\bin\Debug\netcoreapp2.1\Drill_140.dll
+C:\Users\Chest\Source\Repos\The-Tech-Academy-Basic-C-Sharp-Projects\Drill_140\Drill_140\bin\Debug\netcoreapp2.1\Drill_140.pdb
+C:\Users\Chest\Source\Repos\The-Tech-Academy-Basic-C-Sharp-Projects\Drill_140\Drill_140\obj\Debug\netcoreapp2.1\Drill_140.dll
+C:\Users\Chest\Source\Repos\The-Tech-Academy-Basic-C-Sharp-Projects\Drill_140\Drill_140\obj\Debug\netcoreapp2.1\Drill_140.pdb
