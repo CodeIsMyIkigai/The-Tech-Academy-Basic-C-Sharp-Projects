@@ -11,27 +11,19 @@ namespace TwentyOne
 
         public Deck()
         {
-            this.Cards = new List<Card>();
+            this.Cards = new List<Card>();         
 
-            List<string> Suits = new List<string> { "Hearts", "Diamonds", "Clubs", "Spades" };
-            List<string> Faces = new List<string> {
-                "Two", "Three" , "Four",
-                "Five" , "Six", "Seven",
-                "Eight", "Nine", "Ten",
-                "Jack", "Queen", "King", "Ace"
-            };
-
-            foreach(string suit in Suits)
+            foreach(Suit suit in Enum.GetValues(typeof(Suit)))
             {
-                foreach(string face in Faces)
+                foreach(Face face in Enum.GetValues(typeof(Face)))
                 {
-                    Cards.Add(new Card(suit, face));
+                    Card card = new Card();
+                    card.Face = face;
+                    card.Suit = suit;
+                    this.Cards.Add(card);
                 }
             }
-
-
         }
-
 
         public List<Card> Cards { get; set; }
 
