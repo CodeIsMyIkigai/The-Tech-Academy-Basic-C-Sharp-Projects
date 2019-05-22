@@ -6,10 +6,10 @@ namespace TwentyOne
 {
     class TwentyOneGame : Game, IWalkAway
     {
-
+        public TwentyOneDealer Dealer { get; set; }
         public override void Play()
         {
-            throw new NotImplementedException();
+            Dealer = new TwentyOneDealer(); 
         }
 
         public override void ListPlayers()

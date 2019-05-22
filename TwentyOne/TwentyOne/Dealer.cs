@@ -17,8 +17,5 @@ namespace TwentyOne
             Console.WriteLine(Deck.Cards.First().ToString() + "\n");
             Deck.Cards.RemoveAt(0);
         }
-
-
-
     }
 }
