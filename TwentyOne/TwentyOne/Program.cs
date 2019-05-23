@@ -25,8 +25,6 @@ namespace TwentyOne
                 }
                 game -= player;
                 Console.WriteLine("Thanks you for playing!");
-
-
             }
             Console.WriteLine("Feel free to look around the casino. Bye for now.");
             Console.ReadLine(); //To Se results.
