@@ -1,0 +1,10 @@
+C:\Users\DellUser\Source\Repos\CodeIsMyIkigai\The-Tech-Academy-Basic-C-Sharp-Projects\Drill_154\Drill_154\obj\Debug\netcoreapp2.1\Drill_154.csproj.CoreCompileInputs.cache
+C:\Users\DellUser\Source\Repos\CodeIsMyIkigai\The-Tech-Academy-Basic-C-Sharp-Projects\Drill_154\Drill_154\obj\Debug\netcoreapp2.1\Drill_154.AssemblyInfoInputs.cache
+C:\Users\DellUser\Source\Repos\CodeIsMyIkigai\The-Tech-Academy-Basic-C-Sharp-Projects\Drill_154\Drill_154\obj\Debug\netcoreapp2.1\Drill_154.AssemblyInfo.cs
+C:\Users\DellUser\Source\Repos\CodeIsMyIkigai\The-Tech-Academy-Basic-C-Sharp-Projects\Drill_154\Drill_154\bin\Debug\netcoreapp2.1\Drill_154.deps.json
+C:\Users\DellUser\Source\Repos\CodeIsMyIkigai\The-Tech-Academy-Basic-C-Sharp-Projects\Drill_154\Drill_154\bin\Debug\netcoreapp2.1\Drill_154.runtimeconfig.json
+C:\Users\DellUser\Source\Repos\CodeIsMyIkigai\The-Tech-Academy-Basic-C-Sharp-Projects\Drill_154\Drill_154\bin\Debug\netcoreapp2.1\Drill_154.runtimeconfig.dev.json
+C:\Users\DellUser\Source\Repos\CodeIsMyIkigai\The-Tech-Academy-Basic-C-Sharp-Projects\Drill_154\Drill_154\bin\Debug\netcoreapp2.1\Drill_154.dll
+C:\Users\DellUser\Source\Repos\CodeIsMyIkigai\The-Tech-Academy-Basic-C-Sharp-Projects\Drill_154\Drill_154\bin\Debug\netcoreapp2.1\Drill_154.pdb
+C:\Users\DellUser\Source\Repos\CodeIsMyIkigai\The-Tech-Academy-Basic-C-Sharp-Projects\Drill_154\Drill_154\obj\Debug\netcoreapp2.1\Drill_154.dll
+C:\Users\DellUser\Source\Repos\CodeIsMyIkigai\The-Tech-Academy-Basic-C-Sharp-Projects\Drill_154\Drill_154\obj\Debug\netcoreapp2.1\Drill_154.pdb
