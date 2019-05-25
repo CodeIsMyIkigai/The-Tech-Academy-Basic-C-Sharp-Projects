@@ -149,7 +149,7 @@ namespace TwentyOne
                 else
                 {
                     Console.WriteLine("Dealer wins {0}!", Bets[player]);
-                    Dealer.Balance += Best[player];
+                    Dealer.Balance += Bets[player];
                 }
                 Console.WriteLine("Play again?");
                 string answer = Console.ReadLine().ToLower();
