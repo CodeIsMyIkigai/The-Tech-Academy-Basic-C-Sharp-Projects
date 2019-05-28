@@ -19,8 +19,7 @@ namespace DBTest
                 string queryString = @"insert into Descriptions (Name, Description) 
                                     values (@Name, @Description)";
 
-                string description = "'hahahah'); drop database;"; //Testing Instructors comments about dividing into parameters
-                                                            // Solves SQL Injection.  I don't think it does.
+                string description = "A description of sorts";
 
 
                 using (SqlConnection conn = new SqlConnection(connectString))
